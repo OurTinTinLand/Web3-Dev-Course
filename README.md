@@ -10,3 +10,4 @@ TinTinLand's courses are currently taught in Chinese. The official English cours
 - [【Starknet开发实战训练营】](https://github.com/OurTinTinLand/Web3-Dev-Course/issues/2#issue-2302198254)
 - [【ICP：区块链快速入门到开发实战】](https://github.com/OurTinTinLand/Web3-Dev-Course/issues/4#issue-2302206672)
 - [【Rust快速入门指南：掌握Rust编程基础】](https://github.com/OurTinTinLand/Web3-Dev-Course/issues/3#issue-2302201998)
+- [【Move 开发训练营：捕获Web3新机遇】](https://github.com/OurTinTinLand/Web3-Dev-Course/issues/5#issue-2302385947)
