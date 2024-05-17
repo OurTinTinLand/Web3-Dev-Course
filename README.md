@@ -3,7 +3,8 @@ TinTinLand's courses are currently taught in Chinese. The official English cours
 - TinTinLand's Chinese courses are divided into three types: Mini courses, general courses and system courses.
   - Mini courses are Web3 popularization videos, which mainly help Web3 beginners to understand some common Web3 knowledge points, and they are free courses.
   - General courses are online workshops and eco-topics sharing to help Web3 developers understand Web3 ecosystems and technologies, and they are free courses.
-  - System courses mainly focus on Web3 development language introduction and public chain development, and will help developers learn blockchain development from 0 to 1. Currently, the
+  - System courses mainly focus on Web3 development language introduction and public chain development, and will help developers learn blockchain development from 0 to 1. Currently, the Move development boot camp, Starknet development boot camp, Solana development boot camp, and DFINITY development boot camp are free courses, and the Rust introductory course is a paid course.
+
 ## System course
 - [【Solana黑客松先锋训练营】](https://github.com/OurTinTinLand/Web3-Dev-Course/issues/1#issue-2302190734)
 - [【Starknet开发实战训练营】](https://github.com/OurTinTinLand/Web3-Dev-Course/issues/2#issue-2302198254)
